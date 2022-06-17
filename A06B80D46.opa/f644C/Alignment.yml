@@ -1,0 +1,22 @@
+segment_sources:
+  I96DDA28D:
+    type: origin_type
+    relation: translation
+    language: en
+  I96339295:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  85e75caf4f6b413887e7decf21a0dd52:
+    I96DDA28D: 151f0a88f70e45438e2e3123a848f617
+    I96339295: 5d897571654d4260b52140094b16079e
+  795385a5bd1e49e1a6b2a3032adb6409:
+    I96DDA28D: 02630d81550b414aac9917a1e69581a9
+    I96339295: 4e110064c82144159db026be3e8300c0
+  397af9307a3b4d4483bd63fe6d9b8ff9:
+    I96DDA28D: 4171bfc2377f43378ca103689646571d
+    I96339295: 7359c548fc9f45d8a7cfa6c1793febeb
+  0d5ac8a923da44de8a02780cf82958a9:
+    I96DDA28D: 6c853316c79b48bc8b1d5f81fd4bb0a1
+    I96339295: c853415b0d9343959106dc12de3e0ab4
